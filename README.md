@@ -8,3 +8,5 @@ This repository serves as a personal laboratory for sharpening low-level program
 
 [AT-Responder](https://github.com/Alexey-Shuster/AT-Responder) - AT Responder – a lightweight TTY server that listens for AT‑style commands over a serial port, 
 matches them against a rule‑based configuration, and returns responses, with support for listing matching commands using * and . wildcards.
+
+[Space-Shooter](https://github.com/Alexey-Shuster/Space-Shooter) - Multiplayer Space Shooter game with an event-driven client-server architecture.
